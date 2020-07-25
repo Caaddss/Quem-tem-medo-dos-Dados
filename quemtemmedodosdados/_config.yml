@@ -1,0 +1,8 @@
+# Book settings
+title: Quem tem medo dos dados
+author: Caroline Dantas
+logo: logo2.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
